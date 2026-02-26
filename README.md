@@ -1,2 +1,2 @@
-# dougiswougis.github.io
+# dougiswougis
 personal static webpage portfolio
